@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  line-height: 1.5;
+  color: #383232;
+}
+.italic {
+  font-style: italic;
+}
+.container {
+  margin: auto;
+  max-width: 1140px;
+  width: 90%;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+#title {
+  text-align: center;
+}
+#image {
+  max-width: 100%;
+}
+img {
+  display: block;
+}
+#img-div {
+  background-color: #fff;
+  border-radius: 1%;
+  padding: 15px;
+}
+#main {
+  background-color: #e3dfdf;
+  padding: 20px;
+  margin-bottom: 60px;
+}
+ul {
+  text-align: left;
+  line-height: 1.5;
+}
+li {
+  margin: 10px;
+}
